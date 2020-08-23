@@ -1,0 +1,214 @@
+body{
+  margin: 0;
+  text-align: center;
+  position: relative;
+}
+
+.programmer{
+  color: #66BFBF;
+  font-size:2.5rem;
+  text-align: center;
+  margin: 0;
+}
+
+.page2{
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+a{
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0 10px;
+}
+p{
+  font-size: 18px;
+  text-align: justify;
+  font-family: 'Montserrat', sans-serif;
+}
+hr{
+  margin: 0;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  display: inline-block;
+  width: 5%;
+}
+
+ul{
+  font-size: 18px;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  font-size: 5.3rem;
+  font-family: 'Kalam', cursive;
+  color: #66BFBF;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 50px;
+}
+
+h2{
+    color: #66BFBF;
+    font-size: 2.5rem;
+    margin: 0;
+
+}
+
+h3{
+  margin: 0;
+    font-family: 'Montserrat', sans-serif;
+  text-align: left ;
+  font-size: 1.8rem;
+}
+.M {
+  text-align: left;
+}
+.first{
+  align-items: center;
+  background-color: #D8F9F5;
+  height: 720px;
+  width: 100%;
+}
+.second{
+  display: block;
+  height: 500px;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.singlebgc{
+  background-color: #ffffff;
+
+}
+
+
+.secondhalf{
+    display: block;
+  height: 500px;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.third{
+  padding-top: 50px;
+  height: 1000px;
+  width: 600px;
+  margin: auto;
+
+}
+
+.thirdbgc{
+    background-color: #f7fbfc;
+}
+
+.secondbgc{
+    background-color: #D8F9F5;
+}
+.skill-rows{
+  display: block;
+  height: 200px;
+  width: 550px;
+      padding-top: 70px;
+}
+
+
+.skill-rows1{
+  display: block;
+  height: 200px;
+  width: 550px;
+  margin-left: 50px;
+}
+
+.skill-rows2{
+  display: block;
+  height: 200px;
+  width: 550px;
+}
+
+.cloud1{
+  position: absolute;
+ left: 100px;
+ top: 100px;
+}
+
+.cloud2{
+  position: absolute;
+  margin-left: 100px;
+    margin-bottom: 400px;
+}
+
+.cloud3{
+  position: absolute;
+    right: 1100px;
+    left: auto;
+    top: 300px;
+}
+
+.cloud4{
+  position: absolute;
+  right: 100px;
+  top: 200px;
+}
+
+.cloud5{
+  position: absolute;
+  right: 300px;
+  top: 300px;
+}
+
+.cloud6{
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.circular{
+  border-radius: 100%;
+}
+.rudra{
+  margin-top: 50px;
+  text-align: left;
+}
+.offer{
+  float: left;
+  height: 150px;
+  width: 200px;
+  margin-right: 40px;
+}
+
+.offer1{
+  float: right;
+  height: 150px;
+  width: 200px;
+  margin-right: 40px;
+}
+
+.bottom{
+  padding-top: 20px;
+  height: 60px;
+  width: 100%;
+  background-color: #D8F9F5;
+
+}
+
+.git{
+  margin: auto;
+  height: 250px;
+  width: 600px;
+  padding-top: 50px;
+
+}
+
+.mountain{
+  margin-top: 100px;
+  width: 650px;
+}
+
+.end{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+      margin-bottom: 0px;
+}
